@@ -1,0 +1,2 @@
+Command: C:\Users\Yannick\.jdks\openjdk-21.0.1\bin\java.exe -Dpaperclip.patchonly=true -classpath C:\Users\Yannick\IdeaProjects\OraV\.gradle\caches\paperweight\setupCache\extractDevBundle.dir\data\paperclip-mojang+yarn.jar io.papermc.paperclip.Main
+Applying patches

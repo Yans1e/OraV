@@ -1,0 +1,27 @@
+name: OraV
+api-version: 1.20
+authors:
+  - Yansie
+main: de.yansie.Main
+version: 5
+commands:
+  stats:
+    description: stats
+  start:
+    description: start
+  config:
+    description: config
+  einlösen:
+    description: einlösen
+  dcsend:
+    description: dcsend
+  nonnormalshutdown:
+    description: nonnormalshutdown
+libraries:
+  - "net.axay:kspigot:1.20.1"
+  - "org.jetbrains.kotlin:kotlin-stdlib:1.6.10"
+  - "org.jetbrains.kotlinx:kotlinx-coroutines-core:1.7.3"
+  - "org.jetbrains.kotlinx:kotlinx-coroutines-jdk8:1.7.3"
+  - "org.jetbrains.kotlinx:kotlinx-coroutines-core:1.7.3"
+  - "fr.mrmicky:fastboard:2.0.1"
+  - "net.dv8tion:JDA:5.0.0-beta.16"
